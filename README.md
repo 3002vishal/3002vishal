@@ -12,7 +12,7 @@ My work combines mainstream backend engineering with lower-level security concep
 
 **Backend:** Java, Spring Boot, Spring Security, REST APIs, Node.js, Express  
 **Frontend:** React, JavaScript, Material UI  
-**Security:** PKI, X.509, PKCS#11, mTLS, JWT, OAuth/OIDC, OpenSSL, Bouncy Castle  
+**Security:** PKI, X.509, PKCS#11, SunPKCS11, mTLS, JWT, OAuth/OIDC, OpenSSL, Bouncy Castle  
 **Systems:** C, C++, JNA, cryptographic tokens / HSM-style devices  
 **Data & Tools:** MySQL, SQL, Git, Maven, CMake, Docker
 
@@ -24,7 +24,7 @@ My work combines mainstream backend engineering with lower-level security concep
 Full-stack certificate-based authentication and role-based access control system using PKI, cryptographic tokens, challenge-response signatures, React, Node.js, OpenSSL, and OCSP-related certificate lifecycle checks.
 
 ### [Generalized Crypto Middleware](https://github.com/3002vishal/Generalized_Crypto_Middlware)
-Spring Boot REST middleware for PKCS#11 cryptographic tokens, including token discovery, sessions, key generation, CSR generation, certificate enrollment, and digital signing.
+Generalized Java/Spring Boot cryptographic middleware integrating JNA, SunPKCS11, Bouncy Castle, and vendor crypto-token libraries for token discovery, key management, CSR generation, certificate enrollment, signing, and other cryptographic operations.
 
 ### [PDF Signing & Editing System](https://github.com/3002vishal/pdf_signing-editing-system)
 Java/Spring Boot service for PDF generation and digital signing using iText, Bouncy Castle, X.509 certificates, and REST APIs.
