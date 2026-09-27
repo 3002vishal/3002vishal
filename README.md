@@ -23,7 +23,7 @@ My work combines mainstream backend engineering with lower-level security concep
 ### [Secure PKI RBAC Lifecycle](https://github.com/3002vishal/Secure-PKI-RBAC-lifecycle)
 Full-stack certificate-based authentication and role-based access control system using PKI, cryptographic tokens, challenge-response signatures, React, Node.js, OpenSSL, and OCSP-related certificate lifecycle checks.
 
-### [Generalized Crypto Middleware](https://github.com/3002vishal/Generalized_Crypto_Middlware)
+### [Generalized Crypto Middleware](https://github.com/3002vishal/generalized-crypto-middleware)
 Generalized Java/Spring Boot cryptographic middleware integrating JNA, SunPKCS11, Bouncy Castle, and vendor crypto-token libraries for token discovery, key management, CSR generation, certificate enrollment, signing, and other cryptographic operations.
 
 ### [PDF Signing & Editing System](https://github.com/3002vishal/pdf_signing-editing-system)
